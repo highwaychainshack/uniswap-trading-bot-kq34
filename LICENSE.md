@@ -1,4 +1,4 @@
-# 
+# updated uniswap trading bot Strategy | transaction-batching + DEX-arbitrage is the best uniswap trading bot, featuring transaction-batching and DEX-arbitrage. Smart, fast, and
 
 
 
